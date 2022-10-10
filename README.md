@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SamWachira
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently working on Data Science Machine Learning projects
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
 - 📫 samwachira7@gmail.com
 
